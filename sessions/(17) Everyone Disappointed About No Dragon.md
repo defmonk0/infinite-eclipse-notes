@@ -1,11 +1,11 @@
 ### We Haven't Killed Anything In A While
 
-* The party decided to attempt to track the Hobgoblins.
+* *The party* decided to attempt to track the Hobgoblins.
 * After a quick search, they were able to find their encampment after retracing their steps to the hunted dinosaur.
-* Attempted to sneak up a bit before engaging, but some poor nat 1's gave the party away quickly.
+* Attempted to sneak up a bit before engaging, but some poor nat 1's gave *the party* away quickly.
 * Combat began with some scary damage from the Hobgoblin caster, but things quickly began to sway in favor of *Infinite Eclipse*.
 * After defeating the group, they searched the bodies to find money, misc weapons, and a Ring Of Water Walking.
-* After a short rest, the party resumed the journey to *Machairi*, Hobgoblin ears and head in tow.
+* After a short rest, *the party* resumed the journey to *Machairi*, Hobgoblin ears and head in tow.
 
 ### *Stolthet 'Mytejager' Nordligefjell* Is Broke
 
@@ -23,7 +23,7 @@
   * Discussed finding a new home for *Chestnut*.
   * There is no main pass through *The Caldur Peaks*, and would be wilderness the whole way through.
   * Discussed diamonds for Revivify.
-* The party then went to bed for a long rest.
+* *The party* then went to bed for a long rest.
 
 ### Can't A Guy Get A Good Night's Sleep?
 
@@ -43,5 +43,5 @@
 ### Wake Up, End Session
 
 * Morning came, and the group reconvened downstairs.
-  * *Sennin* informed the party of the message from *Balazar Lasa*.
+  * *Sennin* informed *the party* of the message from *Balazar Lasa*.
 * The session ended.

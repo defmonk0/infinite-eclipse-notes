@@ -18,7 +18,7 @@
 * A hidden potion room was explored, finding a few intact potions.
   * 2x potions of healing (1x potion of poison, given to *Stolthet 'Mytejager' Nordligefjell* and marked as uncertain)
   * 1x unknown potion (potion of stone giant strength)
-* Checked the magic items in the library.
+* Checked the *magic items* in the library.
   * After some careful trap disarming and opening from *Rivian*, *Sennin* identified the items.
   * The identify didn't work on the items quite like normal, bombarding *Sennin* with information that became indecipherable.
   * Other than the name of the items, their attunement requirements, and their divinely magical nature, little could be found.
@@ -34,7 +34,7 @@
 * *The party* then went to sleep, finding places throughout the large estate.
 * *Armadyl* prayed and requested an audience with *Birkoziik* before sleep.
   * Shortly after drifting off, a familiar white space acted as their meeting place.
-  * Asked about the magic items their found, and their skepticism of them.
+  * Asked about the *magic items* they found, and their skepticism of them.
   * *Birkoziik* explained they were meant as boons for their champions at the time, so it made little sense for any severe curses to be placed on them.
   * Additionally, *Birkoziik* was amused at the idea of using one of *Mharu*'s boons as a means to work against him, noting that perhaps *Isdaima* was rubbing off on him a bit.
 
@@ -48,7 +48,7 @@
 * At the door, *Berric* waited.
   * Stated he had no where to go, and offered to stick around to take care of the house while they were gone.
   * In return, he got housing and food.
-  * The party agreed, and mentioned they should teach him to defend himself.
+  * *The party* agreed, and mentioned they should teach him to defend himself.
 * *Rivian* forged the deed to the manor, in case it becomes needed.
 * *Alenia Eldaloth* used detect magic to finish checking the house, and then using Plant Growth to make them healthier.
 * *Stolthet 'Mytejager' Nordligefjell* taught *Berric* some basic self-defense and bow usage.

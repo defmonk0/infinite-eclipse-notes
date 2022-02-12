@@ -45,30 +45,30 @@
   * She then had a small spat with the current pit champion, *Colm Rolen*, a large Firbolg who had been watching the fights.
   * *Florian* decided to hit on her.
     * Had company at the bar for the night, but did not have the opportunity to take her home.
-* *Alenia Eldaloth* crossed crime and watching a bar fight off of her bucket list, after confirmation from the party that tonight counted.
+* *Alenia Eldaloth* crossed crime and watching a bar fight off of her bucket list, after confirmation from *the party* that tonight counted.
 
 ### Retire For The Evening
 
-* The party returned to *The Beaver & Mouse Inn* for the evening.
+* *The party* returned to *The Beaver & Mouse Inn* for the evening.
   * On the way, they stopped to check in on *Chestnut*.
 * *Sennin* received a message from *Balazar Lasa* during the walk.
   * He asked about whether they'd be in *Machairi* in about a week.
   * Said he may need their assistance with something.
-  * The party confirmed as much and agreed they would be there.
-* At the Inn, the party discussed what message to send via sending stone to *The Kin*.
+  * *The party* confirmed as much and agreed they would be there.
+* At the Inn, *the party* discussed what message to send via sending stone to *The Kin*.
   * Decided on: "We are hunters. Temple was infested with ankhegs. We cleaned it out."
   * Got a response: "Ankhegs, huh? Sizeable adversaries. Interesting indeed. Maybe we should meet sometime..."
 * *Stolthet 'Mytejager' Nordligefjell* attempted to steal *Alenia Eldaloth*'s bucket list.
   * Did not go well, was immediately caught. Wouldn't have been able to read it anyway.
-  * *Alenia Eldaloth* shared some of it anyone, reading some of it off to the party.
-* Afterward, the party went to sleep for the evening.
+  * *Alenia Eldaloth* shared some of it anyone, reading some of it off to *the party*.
+* Afterward, *the party* went to sleep for the evening.
 
 # *367-6-3*
 
 ### The Following Morning
 
 * First thing on the agenda in the morning was to move *Chestnut* from the underground stables to the pig farm above ground.
-* As they were re-entering, the party heard a town crier giving news.
-  * "Murder in the streets! An attack in Ranafyll. Three dead, killer on the loose! Reward for any information leading to their capture! Cloaked wizard slaughters three in Ranafyll! A fireball from one with gray skin!"
-  * The party immediately thought of *Balazar Lasa*, wondering what he really contacted them for the following evening.
+* As they were re-entering, *the party* heard a town crier giving news.
+  * "Murder in the streets! An attack in *Ranafyll*. Three dead, killer on the loose! Reward for any information leading to their capture! Cloaked wizard slaughters three in *Ranafyll*! A fireball from one with gray skin!"
+  * *The party* immediately thought of *Balazar Lasa*, wondering what he really contacted them for the preceding evening.
 * The session ended pondering that moment.

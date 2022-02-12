@@ -27,7 +27,7 @@
   * How much money they're worth (an old wanted poster for *Griswold Dusange* worth 20k GP, from 3 years ago).
   * They control the political landscape of *Ranafyll*.
   * A known altercation was had with the tavern owners in *Ranafyll* about the ale being sold. It quickly went the way of *Black Buck*.
-* Rest of the party went to *Caldur Steel*.
+* Rest of *the party* went to *Caldur Steel*.
   * Met the owner & apprentice.
   * Bought some basic weapons and supplies.
 
@@ -36,7 +36,7 @@
 * Headed north towards their Goblin-killing quest.
 * Named the horse: *Chestnut*.
 * Summoned and introduced bird friend, *Beaks* and *Tempris*, had them help keep watch on the road.
-* *Florian* filled in the party on what he learned from *Finny Bere*.
+* *Florian* filled in *the party* on what he learned from *Finny Bere*.
 * *Sennin* was able to finish decoding *Gilian Edmur*'s notes.
   * Written like a journal.
   * Details *Black Buck*'s request for a construct to carry out covert operations and assassinations.

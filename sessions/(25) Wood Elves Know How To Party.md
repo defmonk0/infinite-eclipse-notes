@@ -11,7 +11,7 @@
 * *Sennin* asked around about his amulet, and was directed to *Drusila Ariessus*.
 * *Samantha Carter* and *Theren Sylvaranth* had a shooting match, with *Sennin* and *Stolthet 'Mytejager' Nordligefjell* joining in.
 * *Samantha Carter* eventually took the win after a close match with some magical assistance from *Alenia Eldaloth* and *Armadyl*.
-* Discovered *Balazar Lasa* was spending time with *Drusila Ariessus*, so the party decided to leave them alone.
+* Discovered *Balazar Lasa* was spending time with *Drusila Ariessus*, so *the party* decided to leave them alone.
 * Eventually *Infinite Eclipse* went to the *Woodhallow Archives* where they spend the night.
 * *Alenia Eldaloth* had a brief interaction with the tree, who was mostly just surprised to be talking to someone.
 
@@ -20,7 +20,7 @@
 ### Explore Town
 
 * In the morning, everyone was terribly hungover other than *Ergan Ilukar* and *Stolthet 'Mytejager' Nordligefjell*.
-* The party went looking for *Drusila Ariessus* and *Balazar Lasa*, starting with *Drusila Ariessus*'s home.
+* *The party* went looking for *Drusila Ariessus* and *Balazar Lasa*, starting with *Drusila Ariessus*'s home.
   * *Sennin* asked about his amulet.
     * She revealed it had been seen and was related to the disappearance of a woman in *Aethia* 4-5 years ago.
     * The man had passed through for a short period of time not long before.
@@ -34,7 +34,7 @@
   * Asked about why *Alenia Eldaloth* didn't want to enter the temple and their relationship.
     * Learned that *Alenia Eldaloth* is not a follower of *Leighas, The Merciful* while most of the village is.
   * He stayed behind a bit to continue to ask questions.
-* The rest of the party made their way to the village center.
+* The rest of *the party* made their way to the village center.
   * *Balazar Lasa* was still drinking and eating breakfast at the large table.
   * He gave *Sennin* a couple pages from his spellbook, containing Counterspell and Dispel Magic.
   * *Alenia Eldaloth* introduced the rest of *Infinite Eclipse* to *Thamior Caphaxath*.

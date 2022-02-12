@@ -18,7 +18,7 @@
 
 ### Finally Back In The City
 
-* It was late, so the party returns to *The Beaver & Mouse Inn*.
+* It was late, so *the party* returns to *The Beaver & Mouse Inn*.
 * Check in on *Chestnut*, who is doing fine, if a bit annoyed at being underground.
 * *Sennin* identified much of the loot from the *Crypt of Kinzaas' Folly*.
 * Among them was a sending stone with an unknown twin, which *Armadyl* used to message someone who cryptically asked who they were.
@@ -48,5 +48,5 @@
     * Giant toads are in fact found in t he swamps.
     * Also, undead, because slave encampments during the *Scorched War*.
 * Went to visit *Thistle Do Nicely* to trade ankheg acid for ingredients to make Elixirs of Health.
-  * *Florian* charmed the owner (*Fallinn Rakankrak*) to get a significant discount on some potions he was interested in.
+  * *Florian* charmed *the owner* to get a significant discount on some potions he was interested in.
     * Included potions for climbing and water breathing.

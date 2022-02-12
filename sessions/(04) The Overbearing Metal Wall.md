@@ -28,4 +28,4 @@
 
 ### A Covert Operation
 
-* *Infinite Eclipse* regrouped at *The Stone Brick Inn*, and decided to wait for nightfall and send a reduced party to *Tick Tock Clock Stock* on a covert mission.
+* *Infinite Eclipse* regrouped at *The Stone Brick Inn*, and decided to wait for nightfall and send a reduced *party* to *Tick Tock Clock Stock* on a covert mission.

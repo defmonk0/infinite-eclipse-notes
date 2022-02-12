@@ -8,7 +8,7 @@
 
 ### Tattoos
 
-* After that *dead end*, the party decided to start looking into the wrought tattoos of the *young drow man*.
+* After that *dead end*, *the party* decided to start looking into the wrought tattoos of the *young drow man*.
 * *Sennin* suggested heading towards the docks, as the sailors were most common to have them.
 * *Stolthet 'Mytejager' Nordligefjell* chatted up a sailor in an open-air bar, buying him a few drinks.
 * Learned about The Red Ink, a tattoo parlor in the area known for their good work.
@@ -17,15 +17,15 @@
 
 ### Big Frog
 
-* While walking and deciding what else to do for the evening, several party members overheard a confused couple looking into the water.
+* While walking and deciding what else to do for the evening, several *party* members overheard a confused couple looking into the water.
 * Unsure of what they were seeing, they happily engaged *Stolthet 'Mytejager' Nordligefjell* in their conversation, trying to determine what lay beneath the water.
 * An eye stalk and tongue grabbed one of the individuals, pulling them into the water and killing them, quickly revealing the massive amphibious creature attached.
 * Battle ensued, with several guards running off.
-* The party, a lone elvish woman, and two guards who remained engaged with the creature, eventually emerging victorious.
+* *The party*, a lone elvish woman, and two guards who remained engaged with the creature, eventually emerging victorious.
 * The guard took the group's name, 'The Four Horsemen', and left to handle the deserters.
 
 ### New Friend
 
-* Returning to the bar they bought drinks for the sailor in earlier, the party began to talk with and interrogate *B. B.*.
+* Returning to the bar they bought drinks for the sailor in earlier, *the party* began to talk with and interrogate *B. B.*.
 * *The party* was skeptical since she was a bit cagey, but eventually invited her back to the mansion.
 * Returning for the evening, we ended the session.

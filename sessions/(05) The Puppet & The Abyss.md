@@ -10,7 +10,7 @@
 * An investigation found books about The Abyssal Plane, Transmutation, and Necromancy.
 * Nothing of note was found until they discovered an old key in a secret desk compartment.
 * This key opened a metal cage door behind a bookshelf in the same room, where they found *Armadyl* chained up.
-* They helped him out, asked some basic questions, and gathered the rest of their party.
+* They helped him out, asked some basic questions, and gathered the rest of their *party*.
 * They then ventured into the hidden basement, where they engaged the [Clockwork Assassin](https://www.dndbeyond.com/monsters/1777893-clockwork-assassin-puppet) that *Gilian Edmur* was working on.
 * During the fight, they broke a crystal ball that seemed linked to The Abyss, and was healing the construct.
 

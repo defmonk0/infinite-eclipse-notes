@@ -55,7 +55,7 @@
 ### Back To The Scriptorium
 
 * *Armadyl* informed the rest of *Infinite Eclipse* about the Aunt, how he thinks it's a power grab from her, and the other main candidates.
-* The party made its way over to *Machairi Grand Scriptorium & Library* to pick up their requested research.
+* *The party* made its way over to *Machairi Grand Scriptorium & Library* to pick up their requested research.
   * *Alenia Eldaloth*
     * Ivory Oaks
       * No mention in arborist books.
@@ -115,7 +115,7 @@
   * General information on the succession.
   * Used the name 'Gregory Lockheed'
   * Approval would probably come quick, since he's not the only one who requested as much
-* The party returned to *The Beaver & Mouse Inn* to rest for the night.
+* *The party* returned to *The Beaver & Mouse Inn* to rest for the night.
   * Discussed a plan for where to meet *Balazar Lasa* the next day.
     * Decided best place was *The Water & Tale Bar*.
 
@@ -128,12 +128,12 @@
 * *Infinite Eclipse* made their way over.
   * *Florian* tailed behind the group just in case, using *Beaks* as a mid-way point to watch from.
 * *Balazar Lasa*, disguised as a human, entered and dropped the disguise.
-  * Informed the party that the killings were him, in self defense.
+  * Informed *the party* that the killings were him, in self defense.
   * Planned to turn himself in, but had an item he didn't want the guard to get ahold of.
   * His master (*Meriele Iranapha*) wasn't responding due to likely being astral projected at the moment, and *Infinite Eclipse* was the next option he thought of.
   * Wants them to hold on to an artifact until he can get free to re-collect it.
     * Has a plan to prove his innocence using speak with dead and a head of one of the victims.
-  * Was a little thrown off, but not deterred, by the party's drug mule job.
+  * Was a little thrown off, but not deterred, by *the party*'s drug mule job.
   * DO NOT LET THE BOX GET TAKEN.
   * ALSO DON'T FUCKING LOOK AT IT.
   * Also gave the option of dropping it off to *Meriele Iranapha* if she's around and they have the chance.

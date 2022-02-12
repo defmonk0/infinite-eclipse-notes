@@ -7,7 +7,7 @@
 * Second orb found in a hallway off the portal room.
 * Return from there, finding a larger main chamber.
   * Magic circles, which seem to be connected to those orbs in some way.
-* Investigating a bit, the party was attacked by cranium rats through the closed gateway.
+* Investigating a bit, *the party* was attacked by cranium rats through the closed gateway.
   * Quickly dispatched, with multiple mind-altering affects luckily avoided.
 * Continued to explore halls.
   * Find traps. Some disabled, some less so.
@@ -34,4 +34,4 @@
 * Off of the library, a short hall led to a room with dome-shaped dirt mounds.
   * Very roughed up room.
   * Stabbed one with a javelin.
-  * This quickly brought 4 Ankhegs to the party, prepared to defend their hive.
+  * This quickly brought 4 Ankhegs to *the party*, prepared to defend their hive.

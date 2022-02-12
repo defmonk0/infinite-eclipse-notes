@@ -2,7 +2,7 @@
 
 * *Stolthet 'Mytejager' Nordligefjell* went to *Vanchu's Anvil* to ask about possibly helping.
   * Not a huge amount of work available, but helped coalesce and ingot while hanging out.
-  * Her wares are considerably better than most other things seen in shops by the party so far.
+  * Her wares are considerably better than most other things seen in shops by *the party* so far.
 * *Sennin* went to *Orstrjeth Memorial Plaza* to explore a bit.
   * Found an engraving of a cloaked figure with two ravens on the side of one of a marble plaque reminiscent of his medallion.
   * After asking around, he was told it was vandalism done by a Dwarvin woman some time back, and he might be able to get more information at the prison or guardhouse.
@@ -19,9 +19,9 @@
 
 * *Sennin* case Mage Armor on *Stolthet 'Mytejager' Nordligefjell* and *Ergan Ilukar*.
 * *Infinite Eclipse* made their way over to *The Water & Tale Bar* to start partaking in their pit fighting.
-* In transit to the bar, the party noticed a cloaked figure was following and watching them.
+* In transit to the bar, *the party* noticed a cloaked figure was following and watching them.
   * Quickly ran off upon being noticed.
-* After receiving a rule recap and their opponents, the party went down to have a drink and hang out until the fights began.
+* After receiving a rule recap and their opponents, *the party* went down to have a drink and hang out until the fights began.
   * *Florian* set up in the crowd to be able to pickpocket people.
   * *Armadyl* set up on the far side of the room to watch the entrance for the person that was following them.
 * The fights began!

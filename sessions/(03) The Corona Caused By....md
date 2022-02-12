@@ -15,7 +15,7 @@
 
 * Returned to the guardhouse to speak to *Archguard Sig Hrithelm*.
 * Paid 240 GP for killing the rats.
-* Party splits up
+* *Party* splits up
   * *Stolthet 'Mytejager' Nordligefjell* reads a book on engineers found
   * *Alenia Eldaloth*, *Ergan Ilukar*, and *Sennin* head to *Alehands Apothecary*.
     * *Alenia Eldaloth* bought a *Instructional Writings On Elixirs of Health*.

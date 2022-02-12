@@ -3,7 +3,7 @@
 ### Breakfast
 
 * *Sennin* and *Samantha Carter* wake up from their sleep at *The Cracked Mug*.
-* Go downstairs, offered breakfast by *Cily Anor*.
+* Go downstairs, offered breakfast by *the waitress from The Cracked Mug*.
   * Given space at a table with *Alenia Eldaloth* due to crowding.
   * Decide to explore the festival together.
 * The three of them make their way out.

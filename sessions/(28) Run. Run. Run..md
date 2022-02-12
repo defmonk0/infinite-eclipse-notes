@@ -9,12 +9,12 @@
 * The *young drow man* used what seemed to be a magic tattoo and teleported himself and the woman deeper into the room.
 * The woman took a potion which transformed her into a [Draegloth](https://www.dndbeyond.com/monsters/draegloth).
 * The man rose a bunch of undead from around the crypt, and then disappeared.
-* A stressful battle ensued against the undead and Draegloth, but the party emerged victorious without casualty.
+* A stressful battle ensued against the undead and Draegloth, but *the party* emerged victorious without casualty.
   * During the fight, *Stolthet 'Mytejager' Nordligefjell* learned his ring was cursed, and has a chance of knocking him unconscious whenever he uses it.
 
 ### Leave? Leave.
 
-* After the fight, the party reconvened on a plan.
+* After the fight, *the party* reconvened on a plan.
 * Eventually, they decided to run away and head to *Machairi* where they can regroup and rearm.
 * Before departing, just in case, they blew up the alter.
 
@@ -22,4 +22,4 @@
 
 * Made a fast pace across the *The Great Plains Of Raavasa* through the night, eventually coming to rest at the base of the *Aonru Mountains* around daybreak.
 * Took a long rest (9 hours to preemptively heal in case something happened during the evening) with watches, though nothing of note was noticed.
-* After waking back up, the party discussed their plans approaching the bridge, an obvious bottleneck point and possible trap.
+* After waking back up, *the party* discussed their plans approaching the bridge, an obvious bottleneck point and possible trap.

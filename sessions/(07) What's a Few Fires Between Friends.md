@@ -23,7 +23,7 @@
 ### A Short Return Detour
 
 * Slept, returned to road in the morning from the base of the mountains.
-* Split the party with most heading north.
+* Split *the party* with most heading north.
   * *Alenia Eldaloth* and *Florian* head back to *Caldur*.
   * Quicker to send a couple people via *Chestnut* to drop off ears and heads.
 * Nearing *Caldur*, A *young drow man* heading north hands over a letter for *Infinite Eclipse*.
@@ -57,7 +57,7 @@
 * Once inside, the two guards explain they just needed to put on a show of bringing them in for questioning.
 * *Tick Tock Clock Stock* was burned down in the night and *Lord Bar Todt*, who owns the land, is making a stink about it.
 * They can't really investigate into the shop any longer (it's a smoldering wreck in a large hole), so they check up on some basic facts to make sure they understand *Infinite Eclipse*'s story.
-* The two guards let them go out a back door after some time passes, to look like they did more, even though they had little doubts about the party.
+* The two guards let them go out a back door after some time passes, to look like they did more, even though they had little doubts about *the party*.
 * On the way out of the city, a map was purchased at *Mourning Dew Keep* of all of *Semoor* from *Miles Jerner*.
 * The two missing members reunite with the rest of the group, and set up for camp.
 * In the night, during a watch, *Alenia Eldaloth* comes across some [Deinonychus](https://www.dndbeyond.com/monsters/deinonychus) eating a ox-like corpse (a dead [Aurochs](https://www.dndbeyond.com/monsters/aurochs)) a bit away from camp. 
@@ -69,10 +69,10 @@
 
 ### Conflicting Emotions
 
-* In the morning, due to an unfortunate natural 1, *Florian* forgot entirely to disguise himself from the party.
+* In the morning, due to an unfortunate natural 1, *Florian* forgot entirely to disguise himself from *the party*.
 * This enabled many of them to quickly determine he was the individual who attacked *Sennin* during the *Sowing Festival* when they all met.
 * Many were upset at this revelation, though *Florian* brushed it off, but no one took action since *Sennin* himself didn't attempt anything.
-* The party continued onward, eventually coming across a seemingly abandoned house and garden on the frontier.
+* *The party* continued onward, eventually coming across a seemingly abandoned house and garden on the frontier.
 * Exploring a bit, *Florian* and *Beaks* ate some tomatoes from the garden, and *Ergan Ilukar* packed up a couple days worth of produce for the road.
 * Looking through the window, a half eaten meal was left on the table. Exploring inside the unlocked building a bit, a dead body was discovered in bed.
 * *Beaks* was preemptively unsummoned. *Florian* quickly became sick and began taking damage.

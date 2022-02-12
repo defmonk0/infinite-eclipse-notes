@@ -2,7 +2,7 @@
 
 * *Infinite Eclipse* is at *The Cracked Mug*.
 * They begin to partake in the drinking contests going on after brief discussions of how to proceed.
-* *Florian* overhears them, offers to help while disguised as 'Rivian'.
+* *Florian* overhears them, offers to help while disguised as '*Rivian*'.
 * Head to sleep for the night, planning to continue in the morning.
 
 ---
@@ -28,7 +28,7 @@
 
 ### We're Going In
 
-* Party leaves to actually make their way into the building.
+* *The Party* leaves to actually make their way into the building.
 * Discover *Stolthet 'Mytejager' Nordligefjell* also investigating the building.
 * Go in with him, pulling the barricade off the door.
 * *Infinite Eclipse* goes in and engages a large group of rats.

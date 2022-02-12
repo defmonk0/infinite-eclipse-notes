@@ -1,7 +1,7 @@
 ### Paranoia's A Bitch
 
 * After a few additional hours of travel, *Infinite Eclipse* was not far out from the bridge.
-* Florian, Armadyl, and Alenia cross the river, while the remaining party continued on the eastern side.
+* *Florian*, *Armadyl*, and *Alenia Eldaloth* cross the river, while the remaining *party* continued on the eastern side.
 * Using *Beaks*, the members on the western side scoped out their side of the bridge and found little of interest on their side.
   * *Beaks* did find and note a group of individuals camping on the eastern side though.
   * They informed the rest of the group, and they decided to give it a shot.
@@ -10,15 +10,15 @@
 # *367-9-1*
 
 * In the morning, *Sennin* informed *Balazar Lasa* they were returning to *Machairi*.
-* After another days travel along with the guards they had met the night before, the party arrived in *Machairi* around nightfall.
+* After another days travel along with the guards they had met the night before, *the party* arrived in *Machairi* around nightfall.
 
 ### Return to the Underground
 
 * *Infinite Eclipse* bought rooms and had dinner at *The Beaver & Mouse Inn*.
 * *Alenia Eldaloth* helped *Stolthet 'Mytejager' Nordligefjell* shape his branch into a staff for his new weapon.
-* The party then went to *The Water & Tale Bar*, using the previous rooms as a possible diversion.
+* *The party* then went to *The Water & Tale Bar*, using the previous rooms as a possible diversion.
 * *Stolthet 'Mytejager' Nordligefjell* learned *Colm Rolen* had left a short bit ago to take care of something northward.
-* He also traded a fight in the pit to be able to stay for the evening, and the party slept in the stands of *The Stone Pit*.
+* He also traded a fight in the pit to be able to stay for the evening, and *the party* slept in the stands of *The Stone Pit*.
 
 # *367-9-2*
 
@@ -44,7 +44,7 @@
 
 ### Found At The Fight Pit
 
-* The party met back up at *The Water & Tale Bar*.
+* *The party* met back up at *The Water & Tale Bar*.
 * *Stolthet 'Mytejager' Nordligefjell* talked to *Nagre* about *Black Buck*'s hand in the alcohol trade.
 * It was fight night, so everyone hung out in prep for *Stolthet 'Mytejager' Nordligefjell*'s fight for the evening.
 * After a few fights, *Samantha Carter* heard a commotion coming from upstairs in the bar.

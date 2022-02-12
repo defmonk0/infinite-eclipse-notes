@@ -1,7 +1,7 @@
 ### Let's Charter A Boat
 
 * Cast identify on the item from *Balazar Lasa*.
-  * Learned it was known as 'Isdaima's Mirror Maze', and how it would act as a temporary prison for any being.
+  * Learned it was known as '*Isdaima*'s Mirror Maze', and how it would act as a temporary prison for any being.
 * Headed toward the docks, informing *Florian* of everything that happened along the way.
   * He's still a bit skeptical.
 * At the docks, three ships were in port.
@@ -46,5 +46,5 @@
   * Was decided to pay attention to it, but ignore it to not pick a fight with something.
   * Second group didn't really hear it, so they didn't notice it was getting louder.
   * Third group took note again, but it was much closer by this point.
-* Using *Beaks* to scout a bit around the mountainside a bit, the party found the sound was coming from an approaching [Stone Giant](https://www.dndbeyond.com/monsters/stone-giant-variant).
+* Using *Beaks* to scout a bit around the mountainside a bit, *the party* found the sound was coming from an approaching [Stone Giant](https://www.dndbeyond.com/monsters/stone-giant-variant).
 * The session ended.

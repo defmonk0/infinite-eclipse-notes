@@ -17,7 +17,7 @@
 * Asked at the gates where they could find information on the job they were looking for.
   * Directed them to a guardhouse, *Athjar Jaum Bastion*, or most taverns.
 * Entered what was thought to be a gazebo, which turned out to be an elevator descending into the mountain.
-* The city beneath is vast, so the party asked directions.
+* The city beneath is vast, so *the party* asked directions.
 * Directed to *The Beaver & Mouse Inn* for a nicer place to stay, without being super expensive.
 * *Infinite Eclipse* asked the barkeep several questions.
   * Asked about the job.
@@ -25,7 +25,7 @@
   * Political goings-on.
     * Nothing of note within *Machairi*.
   * About the *Machairi Grand Scriptorium & Library*.
-    * Nothing the party didn't already know other than directions to its location.
+    * Nothing *the party* didn't already know other than directions to its location.
   * A hunter's guild or something similar.
     * A rougher bar on the south side commonly houses adventurers who may act as something like that.
     * The *Athjar Jaum Bastion* has a hall of honored heroes and houses their stories as another option.
@@ -46,7 +46,7 @@
   * *Stolthet 'Mytejager' Nordligefjell* questioned about *The Beast's Basin*.
     * Disappointed to learn the name is reflective of the shape, not any particular monster.
   * Learned of *Thistle Do Nicely*.
-* *Stolthet 'Mytejager' Nordligefjell* came up with a plan to draw out the Ankhegs, and ran this by the party after returning to the Inn.
+* *Stolthet 'Mytejager' Nordligefjell* came up with a plan to draw out the Ankhegs, and ran this by *the party* after returning to the Inn.
 * Agreed on the plan and went to bed.
 * *Alenia Eldaloth* opened *Gildore's Present*, revealed to be a children's picture book recounting his life in *Aethia*.
 
@@ -59,4 +59,4 @@
 * Bought some pigs at a farm on the outskirts after descending the plateau.
 * Eventually found a large temple, thought to be the *Crypt of Kinzaas' Folly*.
 * The pigs were used as bait, but promptly lost after getting a few hits in on a couple of Ankhegs.
-* With little options left, the party checked out the entrance and eventually made their way inside.
+* With little options left, *the party* checked out the entrance and eventually made their way inside.
