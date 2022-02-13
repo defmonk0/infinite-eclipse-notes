@@ -10,8 +10,8 @@
 
 * After that *dead end*, *the party* decided to start looking into the wrought tattoos of the *young drow man*.
 * *Sennin* suggested heading towards the docks, as the sailors were most common to have them.
-* *Stolthet 'Mytejager' Nordligefjell* chatted up a sailor in an open-air bar, buying him a few drinks.
-* Learned about The Red Ink, a tattoo parlor in the area known for their good work.
+* *Stolthet 'Mytejager' Nordligefjell* chatted up a sailor in an open-air bar (*The Merry Deck*), buying him a few drinks.
+* Learned about *The Red Ink*, a tattoo parlor in the area known for their good work.
 * *Alenia Eldaloth* used detect magic from the outside, but couldn't feel anything of note within.
 * Learned the parlor was only open on *1 - Elso*, *2 - Ketto*, and *3 - Harma*, so they would have to come back later.
 

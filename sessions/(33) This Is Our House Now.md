@@ -16,8 +16,8 @@
 * Scoped out the dungeon, finding a few skeletons but little else.
   * *Alenia Eldaloth* also buried them in the greenhouse, opposite the nightshade.
 * A hidden potion room was explored, finding a few intact potions.
-  * 2x potions of healing (1x potion of poison, given to *Stolthet 'Mytejager' Nordligefjell* and marked as uncertain)
-  * 1x unknown potion (potion of stone giant strength)
+  * 2x *potions of healing*
+  * 1x *unknown potion*
 * Checked the *magic items* in the library.
   * After some careful trap disarming and opening from *Rivian*, *Sennin* identified the items.
   * The identify didn't work on the items quite like normal, bombarding *Sennin* with information that became indecipherable.
