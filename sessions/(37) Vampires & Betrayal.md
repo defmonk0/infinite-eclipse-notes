@@ -34,7 +34,7 @@
   * Also discussed taking care of the *young drow man*, *Halis*, ahead of time so they don't have to engage both at once.
 * After the party agreed and the broken window was boarded up, everyone continued their night of rest.
 
-# *367-9-7*
+# *367-9-8*
 
 ### Keeping Things Believable
 
