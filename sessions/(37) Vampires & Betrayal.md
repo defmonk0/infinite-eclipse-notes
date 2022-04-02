@@ -13,7 +13,7 @@
   * *Fallthra Bigoat* explained they've had some issues with unrest from *The Ruby Lash* members in the last few days after it was discovered 4 of their upper management was killed, with the 5th seemingly on the run for the crime.
 * *Fallthra Bigoat* said *the party* would be escorted home for the night while investigations continue when they're ready.
 * *The party* checked in on *Prince Grund Caebrek*.
-  * It's decided the trip will be cut short, and his party will be returning to *Machairi* in the morning.
+  * It's decided the trip will be cut short, and his companions will be returning to *Machairi* in the morning.
 * *Armadyl* used detect thoughts to read the room for a bit to see what could be found.
   * *Prince Grund Caebrek* was a bit shaken, and focused on their methods of return (arcane teleportation).
   * *Aureann Gwemonds* was sort of conflicted about everyone surviving.
@@ -24,15 +24,15 @@
 
 ### Interview With A Vampire
 
-* After settling in to *Sennin*'s Tiny Hut in the entertainment space for the night, the party took watches through their rest.
-* During *Armadyl*'s watch, he noticed a bat was flying around the house aimlessly.
+* After settling in to *Sennin*'s Tiny Hut in the entertainment space for the night, *the party* took watches through their rest.
+* During *Armadyl*'s watch, he noticed a bat was flying around *the house* aimlessly.
 * Trying to let it out, he opened a window to give it a path, but it slunk into the shadows and came back out to reveal itself as *Agnew Solidsgurd*.
 * *Armadyl* woke the rest of *the party* and a conversation ensued.
   * *Agnew Solidsgurd* is *Griswold Dusange*, a member of the *Dusange Vampire Clan*.
-  * He wants *Morwenna Dusange* (*Aureann Gwemonds*) dead and wants the party's help to do it.
+  * He wants *Morwenna Dusange* (*Aureann Gwemonds*) dead and wants *the party*'s help to do it.
   * In return all of *the party*'s previous interactions with *Black Buck* will be wiped clean as they return to their more subtle means of work.
   * Also discussed taking care of the *young drow man*, *Halis*, ahead of time so they don't have to engage both at once.
-* After the party agreed and the broken window was boarded up, everyone continued their night of rest.
+* After *the party* agreed and the broken window was boarded up, everyone continued their night of rest.
 
 # *367-9-8*
 
@@ -42,5 +42,5 @@
   * *The party* decided another drug drop-off that night would be a good time to strike.
 * *The party* went to the graveyard they originally fought *Halis* at to make it look like they were chasing any lead you had left for the afternoon.
   * In the downtime, *the party* emptied the bag of holding to clear out some space and the rotting heads.
-  * Also, the party noticed they were being Scry'd upon.
+  * Also, *the party* noticed they were being Scry'd upon.
 * Returning to the city in the late afternoon, the session ended.
