@@ -14,7 +14,7 @@
   * The meeting was set for the following day at 5pm.
 * Regrouping with *Sennin* in the room, *Alenia Eldaloth* used detect magic to check for any spying eyes.
   * It didn't seem there was anyone watching, but *Alenia Eldaloth* detected a magical presence downstairs in the bar.
-  * Popping downstairs to take a quick look, it was identified as a ring on the finger of a large human sailor.
+  * Popping downstairs to take a quick look, it was identified as a ring on the finger of *a large human sailor*.
   * The magic coming from the ring was of the school of necromancy.
 * Returning to *the party*, the group continued their conversation before getting sidetracked by the ring.
   * Everyone exchanged all the information they learned that day on both accounts, and discussed next steps.
@@ -24,12 +24,12 @@
 
 * *The party* went downstairs and took up a table not far from the magic ring group.
 * *Armadyl* quickly checked in with the owner to confirm that *Tethren Ignominy* was still at *the inn*.
-* Started eavesdropping on the sailor guy who was boasting about a recent monster fight on the sea.
+* Started eavesdropping on the *sailor guy* who was boasting about a recent monster fight on the sea.
   * *Stolthet 'Mytejager' Nordligefjell* immediately perked up and went over to them.
   * Learned his last trip was up toward *Brefield* on *The Copper Coin*, and they just got back 2 days ago.
   * A bragging match of trophies and kill stories ensued, eventually resulting in an arm wrestling match.
-    * The sailor took a quick lead, but *Stolthet 'Mytejager' Nordligefjell* tied it back up.
-    * Upon showing it was going to be a good match, the sailor offered a wager to make it more interesting.
+    * *The sailor* took a quick lead, but *Stolthet 'Mytejager' Nordligefjell* tied it back up.
+    * Upon showing it was going to be a good match, *the sailor* offered a wager to make it more interesting.
       * Originally saw the rings on both contender's hands and suggested that, but eventually settled on 100 gold.
   * Both contenders eventually slipped, ending the match in a tie, but laughed it off, continuing the new camaraderie through the evening.
   * *Stolthet 'Mytejager' Nordligefjell* also mentioned they might have work for their crew in the coming days if they were interested.
