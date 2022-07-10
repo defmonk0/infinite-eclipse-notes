@@ -12,7 +12,7 @@
 ### A Trip To The Scriptorium
 
 * After sending all these messages, *the party* went to the *Machairi Grand Scriptorium & Library*.
-* Goal was to see if there was a response to *the party*'s request for information on the Firbolg tribes, and to see if *Ribble Silverthread* would help research *The Skull Of Razaro* on the down-low.
+* Goal was to see if there was a response to *the party*'s request for information on *the Firbolg tribes*, and to see if *Ribble Silverthread* would help research *The Skull Of Razaro* on the down-low.
   * Meeting with *Ribble Silverthread* in a private room, *the party* explained everything.
   * The research request was not yet approved, as it was escalated for higher access.
   * *Ribble Silverthread* was willing to help as best he could, though restricted information would be impossible to get without the paper trail.

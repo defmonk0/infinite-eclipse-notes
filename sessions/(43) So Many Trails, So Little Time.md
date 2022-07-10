@@ -12,7 +12,7 @@
   * There was no confrontation, but they weren't terribly friendly either.
 * *The party* stopped by the pig farm to check in on *Chestnut*, but he wasn't there.
   * Was on a trip up to *Brefield* to deliver some goods.
-* Learned some basic information about the tribes of Firbolgs in the forests adjacent to *The Beast's Basin*, including their territorial nature.
+* Learned some basic information about *the tribes of Firbolgs in the forests* adjacent to *The Beast's Basin*, including their territorial nature.
 
 ### Arrival In *Machairi*
 

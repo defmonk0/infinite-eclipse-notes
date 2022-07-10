@@ -12,7 +12,7 @@
   * The rest of *the party* went to the *Machairi Grand Scriptorium & Library*.
     * Read through the requested information about the structure of the *Mistguard*.
     * Also received the information requested under *Rivian*'s fake name from a while back on the *succession candidates*.
-    * *Stolthet 'Mytejager' Nordligefjell* put in an additional request on information about the Firbolg tribes based near *The Beast's Basin*.
+    * *Stolthet 'Mytejager' Nordligefjell* put in an additional request on information about *the Firbolg tribes* based near *The Beast's Basin*.
 * After *the scriptorium*, *the party* head over to check out *The Muffin Man Bakery*.
   * *Alenia Eldaloth* used detect magic, and learned of a large source inside that was decidedly likely a large magic oven.
   * It was closed until the following morning, so *the party* simply planned to come back.
