@@ -49,7 +49,7 @@
 * *Ergan Ilukar* summoned his horse using his new spell as well.
 * *Alenia Eldaloth* pulled *Florian* aside for a conversation.
   * Wanted explanation of the attack on *Sennin*, and to understand the motivations and whether it was something to continue to worry about.
-  * In return, she'd give him the *Dagger of the Infirm* from [(01) Sowing Festival](%2801%29%20Sowing%20Festival.md).
+  * In return, she'd give him the *Dagger of the Infirm* from [(01) Sowing Festival](..\01.%20Clockwork%20Assassin\%2801%29%20Sowing%20Festival.md).
   * Got an explanation that, more or less, it was for the money, and that money is no longer available, so it didn't really need to be worried about.
   * The dagger is now in *Florian*'s possession.
 
