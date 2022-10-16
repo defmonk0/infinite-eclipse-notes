@@ -7,7 +7,7 @@
 * Eventually, regrouping, everyone head inside the cathedral.
 * A conversation was held with *The Kin*, who were gathered up in a magic circle with a hostage.
   * Learned *Niefendil* is a shapeshifter, and has been acting as various people in the royal family and others to influence the succession and gain access to information.
-  * *Artlaag* killed their hostage, activating the circle and removing them from the plane.
+  * *Artlaag* killed *their hostage*, activating the circle and removing them from the plane.
 * *Balazar Lasa* and *Sennin* began inspecting the circle to learn how it works while others looted whatever was left in the cathedral.
 * After figuring out that the soul vials could work to activate the circle, *Armadyl* released them and activated it, a trying moment for him.
 * On the way out, *Armadyl* saw the slightest glimpse of something unusual about the interaction before the spell removed him from the space.
@@ -19,8 +19,9 @@
 * Everyone slipped inside the tower, and relaxed a bit around the long dining table on one of the floors of the tower.
   * Spoke of *Niefendil*'s identity as a changeling.
   * Identified the items pulled from the cathedral and distributed them.
-* *B. B.* used Speak With Dead to talk to the hostage killed by *Artlaag*.
+* *B. B.* used Speak With Dead to talk to *the hostage* killed by *Artlaag*.
   * Learned little, as he seemed to be a passing bystander.
+  * Got his name: *Hart Zech*.
   * *The Kin* didn't seem to get exactly what they were looking for, but still found something useful/interesting.
   * Described the item as a vial of desiccated worms.
 * *Balazar Lasa* mentioned remembering something from ruins in the north mentioning such an item, and had briefly read about it while going through the material *Artlaag* was looking at before it was burned.

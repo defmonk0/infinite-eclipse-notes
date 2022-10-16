@@ -1,5 +1,8 @@
 {% assign doclist = site.pages | sort: 'url'  %}
 
+doclist: {% doclist | jsonify %}
+site.collections: {% site.collections | jsonify %}
+
 <ul>
 	{% for doc in doclist offset:1 %}
 		{% if doc.name != '/' %}
