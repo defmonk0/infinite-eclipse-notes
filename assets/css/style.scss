@@ -1,0 +1,54 @@
+---
+---
+
+#error-fix {
+	display: none;
+}
+
+@import "{{ site.theme }}";
+
+.page-header {
+	padding: 2rem;
+
+	.btn {
+		display: none;
+	}
+
+	.project-tagline {
+		margin: 1rem 0;
+	}
+
+	a {
+		h1 {
+			color: white;
+		}
+	}
+}
+
+#content {
+	em {
+		font-style: normal;
+	}
+
+	ul {
+		margin-top: 0.5rem;
+
+		li {
+			margin-bottom: 0.5rem;
+		}
+	}
+
+	#file-index {
+		ul {
+			margin-top: 0rem;
+
+			li {
+				margin-bottom: 0rem;
+			}
+		}
+	}
+
+	h1 {
+		margin-bottom: 0px;
+	}
+}
