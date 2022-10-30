@@ -12,7 +12,7 @@
 
 * Bedding down for rest, individuals in one room took watches to keep an eye on *Ergan Ilukar* through the night.
   * The other room did not do the same.
-* During the second watch, *Samantha Carter* was stabbed in her sleep by an assassin who had snuck in.
+* During the second watch, *Samantha Carter* was stabbed in her sleep by *an assassin* who had snuck in.
   * Her Crossbow of Warning did not go off.
   * *Stolthet 'Mytejager' Nordligefjell* was on watch at the time, and heard the struggle from the other room.
   * Rushing over, he found the assassin standing over *Samantha Carter* in bed, right as *Samantha Carter* died from her wounds.
