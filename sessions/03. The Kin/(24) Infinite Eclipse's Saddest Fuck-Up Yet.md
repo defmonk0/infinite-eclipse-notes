@@ -21,7 +21,7 @@
 
 * In the morning, *the party* began to search for dynamite for *Stolthet 'Mytejager' Nordligefjell*.
   * Eventually found a stoneworking area where it might be found.
-  * Talked to a foreman, and learned dynamite was a controlled substance.
+  * Talked to *a foreman*, and learned dynamite was a controlled substance.
   * Through a series of poor rolls, the man was eventually intimidated into selling to *the party* if they met up in a short bit in a nearby alley.
   * The whole *party* decided to tag along for this one.
   * After a clusterfuck of negotiating on price and half-hearted robbery, *the party* eventually left after paying for some dynamite while the man was incapacitated in the alley.
