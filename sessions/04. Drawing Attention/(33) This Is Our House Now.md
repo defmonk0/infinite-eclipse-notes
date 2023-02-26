@@ -18,7 +18,7 @@
 * A hidden potion room was explored, finding a few intact potions.
   * 2x *potions of healing*
   * 1x *unknown potion*
-* Checked the *magic items* in the library.
+* Checked the *Magic Items* in the library.
   * After some careful trap disarming and opening from *Rivian*, *Sennin* identified the items.
   * The identify didn't work on the items quite like normal, bombarding *Sennin* with information that became indecipherable.
   * Other than the name of the items, their attunement requirements, and their divinely magical nature, little could be found.
@@ -34,7 +34,7 @@
 * *The party* then went to sleep, finding places throughout the large estate.
 * *Armadyl* prayed and requested an audience with *Birkoziik* before sleep.
   * Shortly after drifting off, a familiar white space acted as their meeting place.
-  * Asked about the *magic items* they found, and their skepticism of them.
+  * Asked about the *Magic Items* they found, and their skepticism of them.
   * *Birkoziik* explained they were meant as boons for their champions at the time, so it made little sense for any severe curses to be placed on them.
   * Additionally, *Birkoziik* was amused at the idea of using one of *Mharu*'s boons as a means to work against him, noting that perhaps *Isdaima* was rubbing off on him a bit.
 

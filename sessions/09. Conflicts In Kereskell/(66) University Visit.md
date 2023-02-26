@@ -58,7 +58,7 @@
 
 ### Return To The Inn
 
-* On the way back to *The Inn Of Mighty Sword*, unburdened by a schedule this time, *Alenia Eldaloth* eventually found and bought 600 gold worth of raw diamonds.
+* On the way back to *The Inn Of The Mighty Sword*, unburdened by a schedule this time, *Alenia Eldaloth* eventually found and bought 600 gold worth of raw diamonds.
 * Arriving, *the party* was met by two guards out front.
   * Seeing *Alenia Eldaloth*, the guards began to stand at attention, but then relaxed again after seeing *Ergan Ilukar* as well.
   * One of them peaked their head in the door, and said "I think you're alright *Manfred*. She seems to be traveling with one of ours."

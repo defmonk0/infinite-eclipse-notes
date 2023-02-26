@@ -31,4 +31,4 @@
   * Shortly after, another, different set of creatures, notices *the party* regardless, rushing them and starting a fight.
   * The sound of combat then attracted the original group, a squad of Merrow, expanding the fight.
   * Eventually, *the party* emerges victorious, though tired, having let none of the Merrow get away in case they tried to return with backup.
-* Regrouping after the battle, the party began discussing where to go next.
+* Regrouping after the battle, *the party* began discussing where to go next.

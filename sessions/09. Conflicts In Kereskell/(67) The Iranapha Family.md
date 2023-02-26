@@ -1,6 +1,6 @@
 ### Meeting *Manfred*
 
-* *The party*, entering *The Inn Of Mighty Sword*, began having a conversation with *Manfred Iranapha*.
+* *The party*, entering *The Inn Of The Mighty Sword*, began having a conversation with *Manfred Iranapha*.
   * Learned he is, in fact, *Meriele Iranapha*'s brother.
     * Hasn't seen her in hundreds of years.
   * His following of *The Old Faith* stemmed from his mother, who was also a follower.

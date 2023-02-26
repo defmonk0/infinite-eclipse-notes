@@ -13,7 +13,7 @@
 * *Berric* made *the party* breakfast.
 * While everyone was eating and discussing, a knock at the door was answered by *Berric*.
   * Turned out to be a courier delivering a letter for *the party*.
-  * The letter invited them to *dinner* in a few days with the *Ranafyll City Council* and *Prince Grund Caebrek*.
+  * The letter invited them to *Dinner At The Keep* in a few days with the *Ranafyll City Council* and *Prince Grund Caebrek*.
   * It was addressed to *Infinite Eclipse* directly and sent to *the house*, which was concerning considering they gave a fake name and location to the guard the previous night.
 * *Stolthet 'Mytejager' Nordligefjell* gave some additional training to *Berric*.
 * *Alenia Eldaloth* prepared trophy display designs in her journal.
@@ -24,7 +24,7 @@
 
 ### Prep Around Town
 
-* In the afternoon, *the party* went shopping for clothing in preparation of the *dinner*.
+* In the afternoon, *the party* went shopping for clothing in preparation of the *Dinner At The Keep*.
   * *B. B.* got a thin, lavender gown with a slit of the leg.
   * *Sennin* got a wizard's dress robes, made of a fine sheer silk, layered over a long jacket vest and dress shirt.
   * *Alenia Eldaloth* picked a forest green chiffon dress, with plenty of floaty layers in the skirt and short sleeves.
@@ -56,7 +56,7 @@
   * *Stolthet 'Mytejager' Nordligefjell* inquired about magic tattoos, but learned they weren't common.
     * The owner offered to ask around for other artists or clients who might find where that could be done.
   * *B. B.* started looking at getting a tattoo and describing what she wanted.
-  * The rest of *the party* discussed deciding to just let this be until at least after the *dinner*.
+  * The rest of *the party* discussed deciding to just let this be until at least after the *Dinner At The Keep*.
   * As there was an opening in the parlor's schedule, tattoos were acquired by a few *party* members.
     * *B. B.* got a waning gibbous moon around the left shoulder-blade.
     * *Alenia Eldaloth* a stylized sprig of mistletoe on the right forearm.

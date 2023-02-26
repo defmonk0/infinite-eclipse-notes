@@ -31,7 +31,7 @@
   * *Armadyl* stayed at ground level, having a small breakdown about where the crown might be.
     * Feeling the various fluctuations in his connection to the crown from it being placed in and out of the Bag of Holding, his concern grows.
     * Mentally retracing his steps, he eventually asks *the party* if anyone knows where it is.
-    * Narrowing down when he last used it and when it was last seen, *Alenia Eldaloth* notes she knows he had it during the *campus tour* at *Kereskell University*.
+    * Narrowing down when he last used it and when it was last seen, *Alenia Eldaloth* notes she knows he had it during the *Campus Tour* at *Kereskell University*.
     * *The party* agrees they'll attempt a locate object the next day.
   * The rest of *the party* searched for items, finding several interesting items:
     * 300 gp of diamonds

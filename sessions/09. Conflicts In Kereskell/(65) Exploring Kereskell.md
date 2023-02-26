@@ -64,7 +64,7 @@
 
 * *Stolthet 'Mytejager' Nordligefjell* suggests *Sennin* use the Ring of the Scrying Eye to look for his father.
   * Attempting it, the spell fails for some reason, but *Sennin* is unsure what reason caused it.
-* Looking for a place to crash for the night, *the party* was recommended *The Inn Of Mighty Sword* by *Nadala* as it is owned by a friend.
+* Looking for a place to crash for the night, *the party* was recommended *The Inn Of The Mighty Sword* by *Nadala* as it is owned by a friend.
 * Taking that advice, *the party* started to head out, needing to pay their tab.
   * *B. B.* tried to magic her way out of paying, but *the party* quickly put a stop to it, *Alenia Eldaloth* paid, and everyone left.
 * Arriving, *the party* discovers that *the woman behind the bar* is a Goliath.
