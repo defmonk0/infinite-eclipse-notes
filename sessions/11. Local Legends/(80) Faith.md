@@ -120,7 +120,7 @@
       * What do you know about *Aon*, *Dhama*, and *Trit*?
         * The names are familiar, but I can't place them. I don't know.
   * Finishing their questioning, *Armadyl* suggests taking *Terkol Liongaze*'s body to try again later.
-    * He convinces a higher-rank guard that they'll need to body to continue their investigation of *The Kin*.
-    * Having been on the look out for these people, the guard tells him to take both bodies; they'll keep what happened quiet until he can return them for funerals and report them as missing in the meantime.
+    * He convinces a *higher-rank guard* that they'll need to body to continue their investigation of *The Kin*.
+    * Having been on the look out for these people, *the guard* tells him to take both bodies; they'll keep what happened quiet until he can return them for funerals and report them as missing in the meantime.
   * *Sennin* casts Gentle Repose on the two of them to prevent further decay, and *the party* places them both in the bag of holding.
 * Finished with business and wanting to quickly leave town at this point, *the party* once again made for the northern exit to start their travel once again.
