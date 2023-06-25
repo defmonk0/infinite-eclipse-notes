@@ -51,7 +51,7 @@
     * Whip Of Warning: kept in the Bag Of Holding
     * Spellguard Shield: *Ergan Ilukar* once his current shield curse is lifted
     * Ring Of Protection: *Sennin*
-* The party then discusses what to do next.
+* *The party* then discusses what to do next.
   * Particular thought is given to what to do about *Nordri Trueanvil*, who is theoretically alive and stuck in lava.
   * *Mytejager* takes out the Sending Stone to message *Niefendil*.
     * "You killed one of ours, we killed one of yours. From now on, you keep it between us." - *Mytejager*
@@ -60,11 +60,11 @@
     * "I assume this means you wouldn't like to share what you have learned?" - *Niefendil*
     * "I have my concerns." - *Armadyl*
     * "Very well. I shall find another way then. It's been a pleasure working with you, *Armadyl*. Rest well." - *Niefendil*
-    * "I know Mharu spoke to you as a child. I know Uklu means more than you let on. It doesn't have to be like this." - *Armadyl*
+    * "I know *Mharu* spoke to you as a child. I know Uklu means more than you let on. It doesn't have to be like this." - *Armadyl*
   * Finally, another message comes to *Mytejager* from *Niefendil*, to which he repeats and responds aloud.
     * "One for one, is it? A simple logic. I like it. I believe your one is fine now, though. We may need to find another." - *Niefendil*
     * "You struck first. If you didn't want a war, you should never have done that." - *Mytejager*
-* At this point, *Alenia Eldaloth* is having a bit of a panic attach and goes to find *The Panic Closet* with *B. B.*, prompting the party to begin going about other business.
+* At this point, *Alenia Eldaloth* is having a bit of a panic attach and goes to find *The Panic Closet* with *B. B.*, prompting *the party* to begin going about other business.
 
 ### Drugs Continue To Be The Answer
 
