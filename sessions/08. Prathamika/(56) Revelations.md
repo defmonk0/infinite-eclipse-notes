@@ -7,7 +7,7 @@
 * Eventually, getting nowhere, he begrudgingly sat under the waterfall to begin meditating and calming down.
 * Some hours later, still under the falls, he slipped into a dream-like state similar to the one he gets while speaking with *Birkoziik, The Steadfast*.
 * Taking in the dream, another figure joined him, eventually revealing himself as *Mharu, The Apathetic*.
-* Learned it was likely him who spake to *Armadyl* in Carceri, telling him to use the soul vials to escape.
+* Learned it was likely him who spoke to *Armadyl* in Carceri, telling him to use the soul vials to escape.
 * Eventually, working with the *Crown of Segnis*, *Mharu* brings the item to its awakened state.
 * His parting words were, on the subject of *Birkoziik*, "You've done *him* proud. You've done *us* proud."
 * Waking from the dream and contemplating on what happened for a bit, *Stolthet 'Mytejager' Nordligefjell* eventually arrives having walked and tracked him across *The Beast's Basin*.

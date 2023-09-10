@@ -33,6 +33,8 @@
     * He also posits that the orphans in *Manfred Iranapha*'s story were them.
     * Finally, he knows *Mharu* directed *Niefendil* to have *Uklu* harm the animal from the story.
 
+# *368-4-9*
+
 ### Pre-Dawn Ploy
 
 * *Alenia Eldaloth* goes to find *Rivian* and *Beaks* messing with *Ergan Ilukar*, and the two discuss and agree on a plan to take the Sending Stone.
@@ -60,7 +62,7 @@
   * The earlier messaging having left out their arrival location, the guards at *the keep* quickly hone in on *the party*'s arrival with concern before *Prince Grund Caebrek* calls out to join them.
 * Walking with *the prince* out of the courtyard and toward his first meeting for the day, *the party* begins to converse and catch up with him.
   * *Fallthra Bigoat* and *Agnew Solidsgurd* (in a comically large-brimmed hat and cloak to block the sun) are with him, helping him with his business here.
-  * People have been suspicious of *the prince* and *recent* [events](09.%20Conflicts%20In%20Kereskell\%2862%29.md) in *Caldur*, resulting in some citizens partaking in unrest incited by the leftover remnants of *The Ruby Lash* who fled to *Caldur*.
+  * People have been suspicious of *the prince* and *recent* [events](..\09.%20Conflicts%20In%20Kereskell\%2862%29.md) in *Caldur*, resulting in some citizens partaking in unrest incited by the leftover remnants of *The Ruby Lash* who fled to *Caldur*.
   * *Fallthra Bigoat* mentions that *Agnew Solidsgurd* hired a mercenary that has been infiltrating their group to find their meeting spaces.
     * *Agnew Solidsgurd* explains he met her after she had been involved in some vigilantism in *Ranafyll* in the last couple months.
   * *Armadyl* questions who the people they'll find at the meeting tonight are, and whether they're criminals.

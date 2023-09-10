@@ -39,7 +39,7 @@
 * Nearing early evening, *Alenia Eldaloth* returns to *Aethia* proper from the patrol she joined *Theren Sylvaranth* on.
 * Arriving at the temple, *Alenia Eldaloth* psyches herself up and enters, finding *Elwin Horineth* and the font of holy water she needs.
   * Surprised at *Alenia Eldaloth*'s presence, *Elwin Horineth* agrees to allow her use of the font for her Scrying purposes, also noting that she thought *Drusila Ariessus* was the only one in *Aethia* capable of that.
-  * *Alenia Eldaloth* first uses Scrying on *Artlaag*, who she finds passing the time in a [familiar abandoned farmhouse](03.%20The%20Kin\%2821%29%20That%20Was%20A%20Long%20Fight.md) outside of *Mastow*.
+  * *Alenia Eldaloth* first uses Scrying on *Artlaag*, who she finds passing the time in a [familiar abandoned farmhouse](..\03.%20The%20Kin\%2821%29%20That%20Was%20A%20Long%20Fight.md) outside of *Mastow*.
   * Then, trying *Niefendil* in his natural form, the Scrying fails.
 * Grumbling about that failure and pondering what to do, *Elwin Horineth* notices and reminds her that *Drusila Ariessus* can also attempt to Scry for her if she needed more.
   * Finding *Drusila Ariessus*, *Alenia Eldaloth* requests her join in on the Scrying and *Drusila Ariessus* agrees.
